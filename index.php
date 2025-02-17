@@ -1,9 +1,9 @@
 <?php
 // Configuração do banco de dados
-$host = "localhost";
-$dbname = "meubanco";
-$user = "seu_usuario";
-$password = "sua_senha";
+$host = "dpg-cup8loa3esus738bml70-a:5432";
+$dbname = "testerender_ljin";
+$user = "testerender_ljin_user";
+$password = "sP0yKHPUT17J4h8qJvckvVihwn6gCuQz";
 
 // Conectar ao PostgreSQL
 try {
